@@ -81,9 +81,6 @@ void loop() {
   data[1] = X; //map(X, 0, 1023, 0, 255); 
   data[2] = Y; //map(Y, 0, 1023, 0, 255);
 
-  data[3] = 20; 
-  data[4] = 30;
-  
   radio.write(&data, sizeof(data));
 
   #ifdef PRINT_DEBUG
