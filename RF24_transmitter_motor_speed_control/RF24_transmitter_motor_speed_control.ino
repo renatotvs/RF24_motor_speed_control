@@ -1,5 +1,5 @@
 /* 
-  Programa de Trasmissão para controlar motor DC com a placa ESP32 e antena de radio frequencia (nRF24L01+) 
+  Programa transmissor para controle de velocidade do motor DC com uso de radio frequencia (nRF24L01) 
 */
 
 #include <SPI.h>
