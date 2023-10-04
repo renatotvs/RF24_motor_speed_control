@@ -4,7 +4,7 @@ Programa para controle de velocidade de motor DC com uso de radio frequencia (nR
 
 O uso de radio frequencia com o módulo nRF24L01 possibilita controlar dispositivos com um maior alcance sem fio.
 
-O Módulo Wireless NRF24L01 opera na frequência de 2.4GHz, este possuí duas versões: uma com antena intregrada e outra com antena externa. O que possuí antena integrada o alcance é em torno de 100 metros e com antena externa possuí alcance de 1.000 metros e em alguns casos até mais de 1.000 metros. 
+O Módulo Wireless NRF24L01 opera na frequência de 2.4GHz, este possuí duas versões: uma com antena intregrada e outra com antena externa. O que possuí antena integrada o alcance é em torno de 100 metros e com antena externa possuí alcance de 1.000 metros e em alguns casos chega até mais de 1.000 metros. 
 
 ### Laboratório:
 
