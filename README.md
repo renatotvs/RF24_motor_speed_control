@@ -6,11 +6,11 @@ O uso de radio frequencia com o módulo nRF24L01 possibilita controlar dispositi
 
 O Módulo Wireless NRF24L01 opera na frequência de 2.4GHz, este possuí duas versões: uma com antena intregrada e outra com antena externa. O que possuí antena integrada o alcance é em torno de 100 metros e com antena externa possuí alcance de 1.000 metros e em alguns casos chega até mais de 1.000 metros. 
 
-### Esquema de ligação (pinagem)
+## Esquema de ligação (pinagem)
 
 Á definir
 
-### Laboratório:
+## Laboratório:
 
 Nesse laboratório foi utilizado os dois modelos de radio frequencia:
 
@@ -26,16 +26,16 @@ Print dos valores no Serial Monitor (Arduino IDE):
 
 ![Serial monitor](https://github.com/renatotvs/RF24_motor_speed_control/blob/main/images/Serial_monitor_received_transmitter.png)
 
-### Resultado Comunicação - Transmissor X Receptor
+#### Resultado Comunicação - Transmissor X Receptor
 
 https://github.com/renatotvs/RF24_motor_speed_control/assets/42357180/683e3b23-e950-4746-ad81-fa72067dbd30
 
-### Observações
+#### Observações
 
 Nesse primeiro momento foi testado em minha residência em torno de uns 30 metros de distancia do receptor e transmissor e mesmo com obstáculos e paredes a comunicação funcionou perfeitamente.
 Pretendo ainda testar em maiores distâncias e com outras configurações.
 
-### Lista de materiais utilizados nesse laboratório:
+#### Lista de materiais utilizados:
 
 **Transmissor:**
 
