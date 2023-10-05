@@ -26,6 +26,10 @@ Print dos valores no Serial Monitor (Arduino IDE):
 
 ![Serial monitor](https://github.com/renatotvs/RF24_motor_speed_control/blob/main/images/Serial_monitor_received_transmitter.png)
 
+### Resultado Comunicação - Transmissor X Receptor
+
+https://github.com/renatotvs/RF24_motor_speed_control/assets/42357180/683e3b23-e950-4746-ad81-fa72067dbd30
+
 ### Observações
 
 Nesse primeiro momento foi testado em minha residência em torno de uns 30 metros de distancia do receptor e transmissor e mesmo com obstáculos e paredes a comunicação funcionou perfeitamente.
